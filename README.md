@@ -1,6 +1,12 @@
+## IMPORTANT
+This is a fork of [pavitra-behara's](https://github.com/Pavitra554) work
+I dont own this work
+There will be major changes in the coming time till then I have no ownership of this work
+
 # Next.js + Tailwind Css + Redux + Framer motion
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+
 
 ## Deploy your own
 
