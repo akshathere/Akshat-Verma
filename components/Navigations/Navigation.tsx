@@ -92,7 +92,7 @@ const Navigation = () => {
           // Default options for specific types
         }}
       />
-      <Link href='/resume.pdf' download={'resume_akshat'}>
+      <Link href='/Resume.pdf' download={'resume_akshat'}>
       <button
         className='flex gap-1 p-2 px-2.5 justify-center items-center rounded-md bg-zinc-200/10 text-zinc-400 hover:text-neutral-100 shadow-md select-none hover:brightness-150 active:scale-90 ease-linear duration-100 cursor-pointer font-noto  '
         >
